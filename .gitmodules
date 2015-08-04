@@ -1,0 +1,3 @@
+[submodule "RevLib"]
+	path = RevLib
+	url = git@github.com:cslecours/RevLib.git
